@@ -1,4 +1,21 @@
 ## Módulo 1: Vetores, Arrays e Listas
 
-- [] Aula 1 - Introdução a Estrutura de Dados e Algoritmos
-- [] Aula 2 - Vetores e Arrays: Introdução 
+- [x] Aula 1 - Introdução a Estrutura de Dados e Algoritmos
+- [x] Aula 2 - Vetores e Arrays: Introdução 
+- [ ] Aula 3 - Adicionar elemento no final do vetor
+- [ ] Aula 4 - Verificar tamanho e imprimir elementos do vetor
+- [ ] Aula 5 - Obter elemento de uma posição
+- [ ] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
+- [ ] Aula 7 - Adicionar elemento em qualquer posição
+- [ ] Aula 8 - Aumentar capacidade do vetor
+- [ ] Aula 9 - Remover elemento do vetor
+- [ ] Aula 10 - Generalizar o tipo do vetor
+- [ ] Aula 11 - Configurar o tipo do vetor dinamicamente (Generics)
+- [ ] Aula 12 - API Java: ArrayList
+- [ ] Aula 13 - Exer 01 método contém
+- [ ] Aula 14 - Exer 02 método último índice
+- [ ] Aula 15 - Exer 03 método remove elemento
+- [ ] Aula 16 - Exer 04 método obtém (get)
+- [ ] Aula 17 - Exer 05 método remover todos elementos (clear)
+- [ ] Aula 18 - Exer 06 Contatos – Lista
+- [ ] Aula 19 - Exer 07 Contatos – ArrayList
