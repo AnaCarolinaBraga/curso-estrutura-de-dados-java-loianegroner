@@ -7,5 +7,7 @@ Ou seja, o vetor pode ser de inteiros, ou de strings, etc...
 Revisão do que são vetores e de como fazer vetores em java.
 
 Atividade:
-Criação inicial da classe vetor;
-Criação inicial da classe aula02 para testar a classe vetor;
+
+- Criação inicial da classe vetor;
+
+- Criação inicial da classe VetorTestar para testar a classe vetor;

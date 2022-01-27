@@ -2,7 +2,7 @@ package com.loiane.estruturadedados.vetor.teste;
 
 import com.loiane.estruturadedados.vetor.Vetor;
 
-public class Aula02 {
+public class VetorTestar {
 
 	public static void main(String[] args) {
 		
