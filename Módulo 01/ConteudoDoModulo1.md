@@ -3,8 +3,8 @@
 - [x] Aula 1 - Introdução a Estrutura de Dados e Algoritmos
 - [x] Aula 2 - Vetores e Arrays: Introdução 
 - [x] Aula 3 - Adicionar elemento no final do vetor
-- [ ] Aula 4 - Verificar tamanho e imprimir elementos do vetor
-- [ ] Aula 5 - Obter elemento de uma posição
+- [x] Aula 4 - Verificar tamanho e imprimir elementos do vetor
+- [x] Aula 5 - Obter elemento de uma posição
 - [ ] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
 - [ ] Aula 7 - Adicionar elemento em qualquer posição
 - [ ] Aula 8 - Aumentar capacidade do vetor

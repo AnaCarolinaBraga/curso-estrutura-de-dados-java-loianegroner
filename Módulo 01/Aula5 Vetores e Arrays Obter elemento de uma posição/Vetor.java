@@ -1,0 +1,64 @@
+package com.loiane.estruturadedados.vetor;
+
+import java.util.Arrays;
+
+public class Vetor {
+	
+	private String[] elementos;
+	private int tamanho;
+	
+	public Vetor(int capacidade) {
+		this.elementos = new String[capacidade];
+		this.tamanho = 0;
+	}
+	
+    //Adiciona elementos dentro do vetor
+	public boolean adiciona(String elemento) {
+		
+		if (this.tamanho < this.elementos.length) {
+			this.elementos[this.tamanho] = elemento;
+			this.tamanho++;
+			return true;
+		}
+		return false;
+	}
+	
+	//Retorna o elemento de determinada posição. Também verifica se posição solicitada é válida.
+	public String busca(int posicao) {
+		if (!(posicao >=0 && posicao < tamanho)) {
+			throw new IllegalArgumentException("Posição inválida."); //Exceção especial para tipos de argumentos inválidos
+		}
+		
+		return this.elementos[posicao];
+	}
+	
+	//Para retornar o tamanho real do nosso vetor
+	public int tamanho() {
+		return this.tamanho;
+	}
+
+	//Para retornar os elementos reais do nosso vetor
+	@Override
+	public String toString() {
+		
+		StringBuilder s = new StringBuilder();
+		s.append("[");
+		
+		for(int i=0; i<this.tamanho-1; i++) {
+			s.append(this.elementos[i]);
+			s.append(", ");
+		}
+		
+		if (this.tamanho>0) {
+			s.append(this.elementos[this.tamanho-1]);
+		}
+		
+		s.append("]");
+
+		
+		return s.toString();
+	}
+	
+	
+
+}
