@@ -3,8 +3,12 @@
 Nesse [curso](https://loiane.training/curso/estrutura-de-dados) vamos aprender a teoria, como podemos utilizar a estrutura de dados ou algoritmo em projetos reais, além de aprender as estruturas presentes na linguagem Java.
 
 ### Módulo 1: Vetores, Arrays e Listas
-19 aulas
+(Concluídas) 6 aulas
+(A fazer) 13 aulas
+Total de aulas: 19 aulas
 ### Módulo 2: Pilhas
+(A fazer)
 14 aulas
 ### Módulo 3: Filas
+(A fazer)
 7 aulas
