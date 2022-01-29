@@ -5,8 +5,8 @@
 - [x] Aula 3 - Adicionar elemento no final do vetor
 - [x] Aula 4 - Verificar tamanho e imprimir elementos do vetor
 - [x] Aula 5 - Obter elemento de uma posição
-- [ ] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
-- [ ] Aula 7 - Adicionar elemento em qualquer posição
+- [x] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
+- [x] Aula 7 - Adicionar elemento em qualquer posição
 - [ ] Aula 8 - Aumentar capacidade do vetor
 - [ ] Aula 9 - Remover elemento do vetor
 - [ ] Aula 10 - Generalizar o tipo do vetor
