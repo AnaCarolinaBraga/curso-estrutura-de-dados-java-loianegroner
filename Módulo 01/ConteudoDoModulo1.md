@@ -7,7 +7,7 @@
 - [x] Aula 5 - Obter elemento de uma posição
 - [x] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
 - [x] Aula 7 - Adicionar elemento em qualquer posição
-- [ ] Aula 8 - Aumentar capacidade do vetor
+- [x] Aula 8 - Aumentar capacidade do vetor
 - [ ] Aula 9 - Remover elemento do vetor
 - [ ] Aula 10 - Generalizar o tipo do vetor
 - [ ] Aula 11 - Configurar o tipo do vetor dinamicamente (Generics)
