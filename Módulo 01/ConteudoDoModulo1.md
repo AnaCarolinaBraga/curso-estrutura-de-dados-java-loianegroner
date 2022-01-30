@@ -8,7 +8,7 @@
 - [x] Aula 6 - Verificar se elemento existe no vetor (busca sequencial)
 - [x] Aula 7 - Adicionar elemento em qualquer posição
 - [x] Aula 8 - Aumentar capacidade do vetor
-- [ ] Aula 9 - Remover elemento do vetor
+- [x] Aula 9 - Remover elemento do vetor
 - [ ] Aula 10 - Generalizar o tipo do vetor
 - [ ] Aula 11 - Configurar o tipo do vetor dinamicamente (Generics)
 - [ ] Aula 12 - API Java: ArrayList
