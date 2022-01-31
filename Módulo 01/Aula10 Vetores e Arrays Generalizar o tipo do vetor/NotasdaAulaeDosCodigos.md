@@ -13,7 +13,7 @@
 
 ### O que cada pasta de código significa?
 
--**VetorObjetos.java** = Classe vetor com a classe Object.
+-**VetorObjetos.java** = Classe vetor com o private Object[].
 
 -**Contato.java** = Classe para testar a generalização da classe vetor.
 
