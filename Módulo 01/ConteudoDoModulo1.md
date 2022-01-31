@@ -11,7 +11,7 @@
 - [x] Aula 9 - Remover elemento do vetor
 - [x] Aula 10 - Generalizar o tipo do vetor
 - [X] Aula 11 - Configurar o tipo do vetor dinamicamente (Generics)
-- [ ] Aula 12 - API Java: ArrayList
+- [X] Aula 12 - API Java: ArrayList
 - [ ] Aula 13 - Exer 01 método contém
 - [ ] Aula 14 - Exer 02 método último índice
 - [ ] Aula 15 - Exer 03 método remove elemento
