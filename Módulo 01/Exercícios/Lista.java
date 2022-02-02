@@ -97,7 +97,11 @@ public class Lista<T> {
 		}
 		this.tamanho--;
 		
-		
+	}
+
+	//Exercício 3
+	public void remove(T elemento) {
+		remove(busca(elemento));
 	}
 	
 	public int tamanho() {
