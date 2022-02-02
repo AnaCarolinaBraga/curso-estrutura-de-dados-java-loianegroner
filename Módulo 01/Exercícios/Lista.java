@@ -77,7 +77,7 @@ public class Lista<T> {
 	
 	}
 
-    	//Exercicio2: Implementar o método ultimoIndice parecido com o lastIndexOf do ArrayList
+    	//Exercicio 2: Implementar o método ultimoIndice parecido com o lastIndexOf do ArrayList
 	public int ultimoIndice(T elemento) {
 		for (int i = this.tamanho-1 ; i > 0; i--) {
 			if(this.elementos[i].equals(elemento)) {
@@ -87,9 +87,22 @@ public class Lista<T> {
 		return -1;
 	}
 
+		//Exercício 3: implemente o método remove(T), onde será possível remover um elemento da lista passando o mesmo como parâmetro.
+	public void remove(T elemento) {
+		remove(busca(elemento));
+	}
+
 	// Exercícío 4:implemente o método obtem(int posicao), onde será possível obter o elemento dando uma posição do vetor
 	public T obtem(int posicao) {
 		return busca(posicao);
+	}
+
+		// Execício 5: Implementar o método limpar que tira todos os elementos da lista.
+	public void limpar() {
+		for(int i = 0; i < this.tamanho; i++) {
+			this.elementos[i] = null;
+		}
+		this.tamanho = 0;
 	}
 		
 	
@@ -102,11 +115,6 @@ public class Lista<T> {
 		}
 		this.tamanho--;
 		
-	}
-
-	//Exercício 3
-	public void remove(T elemento) {
-		remove(busca(elemento));
 	}
 	
 	public int tamanho() {
