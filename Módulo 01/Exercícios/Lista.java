@@ -53,7 +53,7 @@ public class Lista<T> {
 		}
 	}
 	
-	public Object busca(int posicao) {
+	public T busca(int posicao) {
 		if (!(posicao >=0 && posicao < tamanho)) {
 			throw new IllegalArgumentException("Posição inválida."); //Exceção especial para tipos de argumentos inválidos
 		}
@@ -85,6 +85,11 @@ public class Lista<T> {
 			}
 		}
 		return -1;
+	}
+
+	// Exercícío 4:implemente o método obtem(int posicao), onde será possível obter o elemento dando uma posição do vetor
+	public T obtem(int posicao) {
+		return busca(posicao);
 	}
 		
 	
