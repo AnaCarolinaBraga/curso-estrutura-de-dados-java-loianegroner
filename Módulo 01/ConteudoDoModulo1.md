@@ -12,10 +12,10 @@
 - [x] Aula 10 - Generalizar o tipo do vetor
 - [X] Aula 11 - Configurar o tipo do vetor dinamicamente (Generics)
 - [X] Aula 12 - API Java: ArrayList
-- [ ] Aula 13 - Exer 01 método contém
-- [ ] Aula 14 - Exer 02 método último índice
-- [ ] Aula 15 - Exer 03 método remove elemento
-- [ ] Aula 16 - Exer 04 método obtém (get)
-- [ ] Aula 17 - Exer 05 método remover todos elementos (clear)
-- [ ] Aula 18 - Exer 06 Contatos – Lista
-- [ ] Aula 19 - Exer 07 Contatos – ArrayList
+- [x] Aula 13 - Exer 01 método contém
+- [x] Aula 14 - Exer 02 método último índice
+- [x] Aula 15 - Exer 03 método remove elemento
+- [x] Aula 16 - Exer 04 método obtém (get)
+- [x] Aula 17 - Exer 05 método remover todos elementos (clear)
+- [x] Aula 18 - Exer 06 Contatos – Lista
+- [x] Aula 19 - Exer 07 Contatos – ArrayList
