@@ -4,6 +4,8 @@
 
 ### O **exercício 6** está no arquio "Exercicio06.java" e ele chama as classes Lista e Contatos.
 
+### O **exercício 7** está no arquio "Exercicio07.java". Ele extende o "Exercicio06".
+
 ### Explicação dos exercícios:
 
 Exercício 1: Melhore a classe Lista e implemente o método contém, parecido com o método contain da classe ArrayList.
