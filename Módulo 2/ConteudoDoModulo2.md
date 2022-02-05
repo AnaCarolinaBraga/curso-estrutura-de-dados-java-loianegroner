@@ -6,8 +6,8 @@
 - [x] Aula 4 - Espiar/Verificar elemento do topo (peek)
 - [x] Aula 5 - Desempilhar elemento (pop)
 - [x] Aula 6 - API Java: Stack
-- [ ] Aula 7 - Empilha e desempilha
-- [ ] Aula 8 - Pilhas par ou ímpar
+- [x] Aula 7 - Empilha e desempilha
+- [x] Aula 8 - Pilhas par ou ímpar
 - [ ] Aula 9 - Pilha de Livros
 - [ ] Aula 10 - Stack de Livros
 - [ ] Aula 11 - Desafio do Palíndromo
