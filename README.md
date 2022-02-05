@@ -13,8 +13,10 @@ Aprendemos algoritmos de busca.
 Total de aulas: 19 aulas (19 concluídas)
 
 ### Módulo 2: Pilhas
-(A fazer)
+(Concluídas) 1 aula
+(A fazer) 13 aulas
 14 aulas
+
 ### Módulo 3: Filas
 (A fazer)
 7 aulas
