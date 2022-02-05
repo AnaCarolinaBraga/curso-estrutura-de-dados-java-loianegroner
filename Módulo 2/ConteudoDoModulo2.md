@@ -10,7 +10,7 @@
 - [x] Aula 8 - Pilhas par ou ímpar
 - [x] Aula 9 - Pilha de Livros
 - [x] Aula 10 - Stack de Livros
-- [ ] Aula 11 - Desafio do Palíndromo
+- [x] Aula 11 - Desafio do Palíndromo
 - [ ] Aula 12 - Desafio dos símbolos balanceados
 - [ ] Aula 13 - Desafio conversão decimal-binário
 - [ ] Aula 14 - Desafio Torre de Hanoi
