@@ -2,7 +2,7 @@
 
 - [x] Aula 1 - Pilhas: Introdução
 - [x] Aula 2 - Empilhar elemento (push)
-- [ ] Aula 3 - Verificar se pilha está vazia
+- [x] Aula 3 - Verificar se pilha está vazia
 - [ ] Aula 4 - Espiar/Verificar elemento do topo (peek)
 - [ ] Aula 5 - Desempilhar elemento (pop)
 - [ ] Aula 6 - API Java: Stack
