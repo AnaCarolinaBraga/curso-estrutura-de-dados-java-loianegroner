@@ -17,5 +17,6 @@ Total de aulas: 19 aulas (19 concluídas)
 Total de aulas: 14 aulas (14 concluídas)
 
 ### Módulo 3: Filas
-(A fazer)
-7 aulas
+
+(Concluídas) 1 aula 
+(A fazer) 6 aulas
