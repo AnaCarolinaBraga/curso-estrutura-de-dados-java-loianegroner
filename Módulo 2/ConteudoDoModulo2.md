@@ -1,7 +1,7 @@
 ## Módulo 2: Pilhas
 
 - [x] Aula 1 - Pilhas: Introdução
-- [ ] Aula 2 - Empilhar elemento (push)
+- [x] Aula 2 - Empilhar elemento (push)
 - [ ] Aula 3 - Verificar se pilha está vazia
 - [ ] Aula 4 - Espiar/Verificar elemento do topo (peek)
 - [ ] Aula 5 - Desempilhar elemento (pop)
