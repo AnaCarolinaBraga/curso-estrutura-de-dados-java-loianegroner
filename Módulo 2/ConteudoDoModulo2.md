@@ -12,5 +12,5 @@
 - [x] Aula 10 - Stack de Livros
 - [x] Aula 11 - Desafio do Palíndromo
 - [x] Aula 12 - Desafio dos símbolos balanceados
-- [ ] Aula 13 - Desafio conversão decimal-binário
+- [x] Aula 13 - Desafio conversão decimal-binário
 - [ ] Aula 14 - Desafio Torre de Hanoi
