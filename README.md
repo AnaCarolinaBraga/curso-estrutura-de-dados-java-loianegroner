@@ -10,13 +10,12 @@ Também aprendemos como fazer tudo isso usando o ArrayList.
 
 Aprendemos algoritmos de busca.
 
-Total de aulas: 19 aulas (19 concluídas)
+Total de aulas + exercícios: 19 aulas (19 concluídas)
 
 ### Módulo 2: Pilhas
 
-Total de aulas: 14 aulas (14 concluídas)
+Total de aulas + exercícios: 14 aulas (14 concluídas)
 
 ### Módulo 3: Filas
 
-(Concluídas) 7 aulas
-(A fazer) 0 aulas
+Total de aulas + exercícios: 11 aulas (11 concluídas)

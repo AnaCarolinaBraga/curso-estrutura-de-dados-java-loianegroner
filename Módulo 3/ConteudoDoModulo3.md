@@ -8,6 +8,6 @@
 - [x] Aula 24 - Filas com Prioridade
 - [x] Aula 25 - Filas: API Java: PriorityQueue
 - [x] Exercicio 1 - Impressão de Documentos 
-- [ ] Exercicio 2 - Fila de Atendimento
-- [ ] Exercicio 3 
-- [ ] Exercicio 4 
+- [x] Exercicio 2 - Fila de Atendimento
+- [x] Exercicio 3 - Simulação de Pronto Socorro
+- [x] Exercicio 4 - Desafio da Batata-quente
