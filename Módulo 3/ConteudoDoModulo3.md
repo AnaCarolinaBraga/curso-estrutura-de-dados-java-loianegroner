@@ -7,3 +7,7 @@
 - [x] Aula 23 - Filas: API Java: Queue
 - [x] Aula 24 - Filas com Prioridade
 - [x] Aula 25 - Filas: API Java: PriorityQueue
+- [x] Exercicio 1 - Impressão de Documentos 
+- [ ] Exercicio 2 - Fila de Atendimento
+- [ ] Exercicio 3 
+- [ ] Exercicio 4 
