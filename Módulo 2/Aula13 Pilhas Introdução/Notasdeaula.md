@@ -30,7 +30,7 @@ Nesta aula, aprendemos o que são pilhas e o que é LIFO. Vamos trabalhar com pi
 
 -**Pilha.java**
 
-- Ela extende a classe "EstruturaEstatica". A classe pilha é para aprendermos como pilhas funcionam. Aqui começamos a adicionar alguns métodos já, que vieram da classe mãe.
+- Ela estende a classe "EstruturaEstatica". A classe pilha é para aprendermos como pilhas funcionam. Aqui começamos a adicionar alguns métodos já, que vieram da classe mãe.
 
 -**Aula13.java**
 

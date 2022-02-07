@@ -8,7 +8,7 @@
 
 -**Pilha.java**
 
-- Ela extende a classe "EstruturaEstatica". Adicionamos o método "topo()", que retorna o último elemento colocado na pilha.
+- Ela estende a classe "EstruturaEstatica". Adicionamos o método "topo()", que retorna o último elemento colocado na pilha.
 
 -**Aula16.java**
 

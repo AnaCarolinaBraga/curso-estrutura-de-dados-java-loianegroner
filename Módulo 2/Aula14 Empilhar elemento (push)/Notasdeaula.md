@@ -14,7 +14,7 @@
 
 -**Pilha.java**
 
-- Ela extende a classe "EstruturaEstatica". A classe pilha é para aprendermos como pilhas funcionam. 
+- Ela estende a classe "EstruturaEstatica". A classe pilha é para aprendermos como pilhas funcionam. 
 
 -**Aula14.java**
 

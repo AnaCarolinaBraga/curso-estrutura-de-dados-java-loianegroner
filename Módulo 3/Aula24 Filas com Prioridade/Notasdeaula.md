@@ -18,7 +18,7 @@
 
 EstruturaEstatica.java - Superclasse usada como base para Pilha e Fila. (modifiquei o método adiciona, estava dando erro o método anterior)
 
-Fila.java - Classe fila que construímos. Tem os métodos de fila semelhantes ao da interface Queue. Ela extende a superclasse EstruturaEstatica.
+Fila.java - Classe fila que construímos. Tem os métodos de fila semelhantes ao da interface Queue. Ela estende a superclasse EstruturaEstatica.
 
 FilaComPrioridade.java - Demos um override no método enfileira, adicionando o Comparable, para que adicione na fila com prioridade.
 

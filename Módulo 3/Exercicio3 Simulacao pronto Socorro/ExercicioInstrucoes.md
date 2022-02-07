@@ -15,9 +15,9 @@ Utilize a classe Fila para simular um sistema de senhas de um pronto-socorro. Ca
 
 -EstruturaEstatica.java  = Superclasse usada como base para Pilha e Fila. 
 
--Fila.java = Extende a EstruturaEstática. Tem os mesmos métodos eue a classe Stack
+-Fila.java = Extende a EstruturaEstática. Tem os mesmos métodos que a classe Stack
 
--FilaComPrioridade.java = Extende a fila. Adiciona método para organizar de acordo com a prioridade.
+-FilaComPrioridade.java = Estende a fila. Adiciona método para organizar de acordo com a prioridade.
 
 -Exercicio03.java = corpo do exercício.
 

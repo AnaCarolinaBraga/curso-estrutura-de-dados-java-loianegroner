@@ -8,7 +8,7 @@
 
 -**Pilha.java**
 
-- Ela extende a classe "EstruturaEstatica". Adicionamos o método "desempilha()", que retira o último elemento colocado na pilha.
+- Ela estende a classe "EstruturaEstatica". Adicionamos o método "desempilha()", que retira o último elemento colocado na pilha.
 
 -**Aula17.java**
 
