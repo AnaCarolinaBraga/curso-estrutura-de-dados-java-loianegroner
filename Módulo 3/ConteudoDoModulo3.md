@@ -6,4 +6,4 @@
 - [x] Aula 22 - Filas: Desenfileirar (remover) elemento (dequeue)
 - [x] Aula 23 - Filas: API Java: Queue
 - [x] Aula 24 - Filas com Prioridade
-- [ ] Aula 25 - Filas: API Java: PriorityQueue
+- [x] Aula 25 - Filas: API Java: PriorityQueue
